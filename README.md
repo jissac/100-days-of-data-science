@@ -1,5 +1,4 @@
 # 100-days-of-data-science
-Documenting the learning journey
 
 ## Day 1        
 Python Data Science Handbook (Ch2-4): Numpy, Pandas, Matplotlib         
@@ -20,4 +19,6 @@ https://github.com/wesm/pydata-book
 Spark: The Definitive Guide https://github.com/databricks/Spark-The-Definitive-Guide
 
 ## Day4
-**Books**      
+Pandas cheatsheat: https://drive.google.com/file/d/0ByIrJAE4KMTtTUtiVExiUGVkRkE/view       
+
+
