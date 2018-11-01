@@ -19,6 +19,9 @@ https://github.com/wesm/pydata-book
 Spark: The Definitive Guide https://github.com/databricks/Spark-The-Definitive-Guide
 
 ## Day4
-Pandas cheatsheat: https://drive.google.com/file/d/0ByIrJAE4KMTtTUtiVExiUGVkRkE/view       
+Pandas cheatsheat: https://drive.google.com/file/d/0ByIrJAE4KMTtTUtiVExiUGVkRkE/view      
 
+Merging DataFrames: https://www.shanelynn.ie/merge-join-dataframes-python-pandas-index-1/        
 
+## Day5
+Jupyter Notebook Best Practices for Data Science: https://www.svds.com/jupyter-notebook-best-practices-for-data-science/   
