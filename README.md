@@ -25,3 +25,8 @@ Merging DataFrames: https://www.shanelynn.ie/merge-join-dataframes-python-pandas
 
 ## Day5
 Jupyter Notebook Best Practices for Data Science: https://www.svds.com/jupyter-notebook-best-practices-for-data-science/   
+
+## Day6
+Learn the command shell: http://linuxcommand.org/lc3_learning_the_shell.php     
+
+
