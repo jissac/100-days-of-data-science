@@ -29,4 +29,9 @@ Jupyter Notebook Best Practices for Data Science: https://www.svds.com/jupyter-n
 ## Day6
 Learn the command shell: http://linuxcommand.org/lc3_learning_the_shell.php     
 
+## Day7
+Intro to HDFS: https://data-flair.training/blogs/apache-hadoop-hdfs-introduction-tutorial/       
 
+Top 10 HDFS commands: https://data-flair.training/blogs/top-hadoop-hdfs-commands-tutorial/      
+
+Hadoop fs Commands: https://www.thomashenson.com/hadoop-fs-commands/
