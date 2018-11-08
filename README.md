@@ -34,4 +34,8 @@ Intro to HDFS: https://data-flair.training/blogs/apache-hadoop-hdfs-introduction
 
 Top 10 HDFS commands: https://data-flair.training/blogs/top-hadoop-hdfs-commands-tutorial/      
 
-Hadoop fs Commands: https://www.thomashenson.com/hadoop-fs-commands/
+Hadoop fs Commands: https://www.thomashenson.com/hadoop-fs-commands/      
+
+## Day8
+Linux File System Hierarchy: https://linuxacademy.com/blog/linux/anatomy-of-a-file-system/      
+
