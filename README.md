@@ -37,5 +37,6 @@ Top 10 HDFS commands: https://data-flair.training/blogs/top-hadoop-hdfs-commands
 Hadoop fs Commands: https://www.thomashenson.com/hadoop-fs-commands/      
 
 ## Day8
-Linux File System Hierarchy: https://linuxacademy.com/blog/linux/anatomy-of-a-file-system/      
+Linux File System Hierarchy: https://linuxacademy.com/blog/linux/anatomy-of-a-file-system/         
+DataQuest Portfolio Project (good tips and tricks): https://www.dataquest.io/blog/data-science-portfolio-project/      
 
