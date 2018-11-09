@@ -41,4 +41,5 @@ Linux File System Hierarchy: https://linuxacademy.com/blog/linux/anatomy-of-a-fi
 DataQuest Portfolio Project (good tips and tricks): https://www.dataquest.io/blog/data-science-portfolio-project/         
 https://datascienceguide.github.io/outline     
 
-
+## Day9
+DataQuest DataScience Track started
