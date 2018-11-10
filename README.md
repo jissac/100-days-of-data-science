@@ -46,5 +46,9 @@ https://datascienceguide.github.io/outline
 ## Day9
 Started DataQuest DataScience Track: https://www.dataquest.io       
 
+## Day10
+Computational Statistics PYCON 2016: https://www.youtube.com/watch?v=VR52vSbHBAk    
+
+
 
 
