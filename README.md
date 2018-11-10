@@ -1,8 +1,10 @@
 # 100-days-of-data-science
 
 ## Day 1        
-Python Data Science Handbook (Ch2-4): Numpy, Pandas, Matplotlib         
-https://jakevdp.github.io/PythonDataScienceHandbook/
+**Books**       
+Python Data Science Handbook       
+https://jakevdp.github.io/PythonDataScienceHandbook/        
+https://github.com/jakevdp/PythonDataScienceHandbook
 
 ## Day2
 **Books**      
@@ -42,4 +44,7 @@ DataQuest Portfolio Project (good tips and tricks): https://www.dataquest.io/blo
 https://datascienceguide.github.io/outline     
 
 ## Day9
-DataQuest DataScience Track started
+Started DataQuest DataScience Track: https://www.dataquest.io       
+
+
+
