@@ -45,10 +45,14 @@ https://datascienceguide.github.io/outline
 
 ## Day9
 Started DataQuest DataScience Track: https://www.dataquest.io       
+
 http://toddwschneider.com/posts/a-tale-of-twenty-two-million-citi-bikes-analyzing-the-nyc-bike-share-system/     
 
 ## Day10
 Computational Statistics PYCON 2016: https://www.youtube.com/watch?v=VR52vSbHBAk    
+
+https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/       
+
 
 
 
