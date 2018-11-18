@@ -54,7 +54,12 @@ Computational Statistics PYCON 2016: https://www.youtube.com/watch?v=VR52vSbHBAk
 https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/       
 
 ## Day11
+Data Science Field Guide by Booz Hamilton: https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/2015-field-guide-to-data-science.pdf?elqTrackId=aff26a28b6c64d4fa62eb5253daed712&elq=30eff5fff2bf4b788281a8a0cd40ac95&elqaid=2466&elqat=1&elqCampaignId=            
+ Data Science Guide: https://datascienceguide.github.io/outline    
+ 
+## Day12
 Learned SQL basics, subqueries, SQLite. https://www.sqlstyle.guide/       
+
 
 
 
