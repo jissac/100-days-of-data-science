@@ -60,6 +60,9 @@ Data Science Field Guide by Booz Hamilton: https://www.boozallen.com/content/dam
 ## Day12
 Learned SQL basics, subqueries, SQLite. https://www.sqlstyle.guide/       
 
+## Day13
+More SQL.SQLite. https://www.tutorialspoint.com/sqlite      
+
 
 
 
