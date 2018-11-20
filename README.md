@@ -63,7 +63,8 @@ Learned SQL basics, subqueries, SQLite. https://www.sqlstyle.guide/
 ## Day13
 More SQL.SQLite. https://www.tutorialspoint.com/sqlite      
 
-
+## Day14
+SQL Joins. Published Medium article 'Essential SQL'
 
 
 
