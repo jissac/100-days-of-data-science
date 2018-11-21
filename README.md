@@ -66,6 +66,9 @@ More SQL.SQLite. https://www.tutorialspoint.com/sqlite
 ## Day14
 SQL Joins. Published Medium article 'Essential SQL'
 
+Setting up virtual environments in Anaconda. https://medium.com/@margaretmz/anaconda-jupyter-notebook-tensorflow-and-keras-b91f381405f8    
+
+
 
 
 
