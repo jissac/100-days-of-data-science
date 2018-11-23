@@ -71,6 +71,15 @@ Setting up virtual environments in Anaconda. https://medium.com/@margaretmz/anac
 ## Day15
 Data Science at the Command Line: https://www.datascienceatthecommandline.com/     
 
+## Day16
+Visualizing Google Location Data:
+http://beneathdata.com/how-to/visualizing-my-location-history/       
+https://shiring.github.io/maps/2016/12/30/Standortverlauf_post     
+https://www.chipoglesby.com/2018/03/2018-analyzing-google-location-historyII/      
+
+SSH into Linux desktop using Macbook:     
+ssh -X username@host    
+
 
 
 
