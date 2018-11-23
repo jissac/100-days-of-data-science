@@ -80,6 +80,8 @@ https://www.chipoglesby.com/2018/03/2018-analyzing-google-location-historyII/
 SSH into Linux desktop using Macbook:     
 ssh -X username@host    
 
+Google Cloud Services: https://cloud.google.com/free/     
+
 
 
 
