@@ -82,6 +82,8 @@ ssh -X username@host
 
 Google Cloud Services: https://cloud.google.com/free/     
 
-
+## Day17
+Buildling a Data Science Portfolio: https://www.dataquest.io/blog/build-a-data-science-portfolio/     
+Two competition sites: Kaggle or DrivenData (http://drivendata.co/)     
 
 
