@@ -88,3 +88,7 @@ Two competition sites: Kaggle or DrivenData (http://drivendata.co/)
 
 ## Day18
 Spark basics
+
+## Day19
+Spark: The Definitive Guide http://shop.oreilly.com/product/0636920034957.do       
+
