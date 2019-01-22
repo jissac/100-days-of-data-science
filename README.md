@@ -90,5 +90,9 @@ Two competition sites: Kaggle or DrivenData (http://drivendata.co/)
 Spark basics
 
 ## Day19
-Spark: The Definitive Guide http://shop.oreilly.com/product/0636920034957.do       
+Spark: The Definitive Guide http://shop.oreilly.com/product/0636920034957.do     
+
+## Day20
+Hadoop HDFS architecture: https://www.edureka.co/blog/apache-hadoop-hdfs-architecture/    
+
 
