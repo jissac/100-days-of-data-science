@@ -99,4 +99,7 @@ Hadoop HDFS architecture: https://www.edureka.co/blog/apache-hadoop-hdfs-archite
 XGBoost Algo: https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d        
 paper: https://arxiv.org/pdf/1603.02754.pdf         
 
+Jeong-Yoon Lee: https://www.quora.com/profile/Jeong-Yoon-Lee         
+
+
 
