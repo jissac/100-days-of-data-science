@@ -101,5 +101,9 @@ paper: https://arxiv.org/pdf/1603.02754.pdf
 
 Jeong-Yoon Lee: https://www.quora.com/profile/Jeong-Yoon-Lee         
 
+## Day 22
+Elements of Data Analytic Style: https://worldpece.org/sites/default/files/datastyle.pdf 
+
+## Day 23
 
 
