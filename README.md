@@ -105,5 +105,7 @@ Jeong-Yoon Lee: https://www.quora.com/profile/Jeong-Yoon-Lee
 Elements of Data Analytic Style: https://worldpece.org/sites/default/files/datastyle.pdf 
 
 ## Day 23
+Understanding the Python interpretter, bytecode:                 
+- https://stackoverflow.com/questions/2998215/if-python-is-interpreted-what-are-pyc-files          
 
 
