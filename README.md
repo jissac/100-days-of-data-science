@@ -110,3 +110,11 @@ Understanding the Python interpretter, bytecode:
 - http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html          
 - https://leanpub.com/insidethepythonvirtualmachine/read      
 
+## Day 24
+Understanding proper Python and Pyspark project structure
+- https://realpython.com/python-application-layouts/      
+- https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6      
+- https://able.bio/SamDev14/how-to-structure-a-python-project--685o1o6       
+- https://docs.python-guide.org/writing/structure/          
+- https://developerzen.com/best-practices-writing-production-grade-pyspark-jobs-cb688ac4d20f       
+
