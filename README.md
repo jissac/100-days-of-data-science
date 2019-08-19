@@ -107,5 +107,6 @@ Elements of Data Analytic Style: https://worldpece.org/sites/default/files/datas
 ## Day 23
 Understanding the Python interpretter, bytecode:                 
 - https://stackoverflow.com/questions/2998215/if-python-is-interpreted-what-are-pyc-files          
-
+- http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html          
+- https://leanpub.com/insidethepythonvirtualmachine/read      
 
