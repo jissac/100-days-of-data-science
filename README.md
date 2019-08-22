@@ -108,7 +108,8 @@ Elements of Data Analytic Style: https://worldpece.org/sites/default/files/datas
 Understanding the Python interpretter, bytecode:                 
 - https://stackoverflow.com/questions/2998215/if-python-is-interpreted-what-are-pyc-files          
 - http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html          
-- https://leanpub.com/insidethepythonvirtualmachine/read      
+- https://leanpub.com/insidethepythonvirtualmachine/read   
+- https://stackoverflow.com/questions/1517582/what-is-the-difference-between-statically-typed-and-dynamically-typed-languages
 
 ## Day 24
 Understanding proper Python and Pyspark project structure
