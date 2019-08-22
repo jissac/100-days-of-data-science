@@ -119,3 +119,7 @@ Understanding proper Python and Pyspark project structure
 - https://docs.python-guide.org/writing/structure/          
 - https://developerzen.com/best-practices-writing-production-grade-pyspark-jobs-cb688ac4d20f       
 
+## Day 25
+Useful stats implemented in Python:
+- https://pythonfordatascience.org/
+
