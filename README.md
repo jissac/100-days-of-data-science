@@ -123,3 +123,9 @@ Understanding proper Python and Pyspark project structure
 Useful stats implemented in Python:
 - https://pythonfordatascience.org/
 
+## Day 26
+SQL CTEs: 
+- https://www.essentialsql.com/non-recursive-ctes/
+
+Data Science Interview SQL Topics:
+- https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433
