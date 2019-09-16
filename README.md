@@ -129,3 +129,8 @@ SQL CTEs:
 
 Data Science Interview SQL Topics:
 - https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433
+
+## Day 27
+What is SSH?
+- https://www.youtube.com/watch?v=X9jAjG3PWPo
+- https://www.youtube.com/watch?v=v_cVEpESG3g
