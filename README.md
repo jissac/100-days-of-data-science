@@ -134,3 +134,6 @@ Data Science Interview SQL Topics:
 What is SSH?
 - https://www.youtube.com/watch?v=X9jAjG3PWPo
 - https://www.youtube.com/watch?v=v_cVEpESG3g
+
+## Day 28
+- https://www.google.com/search?q=Spotify+keto+podcast&oq=Spotify+keto+podcast&aqs=chrome..69i57j0.10391j0j4&client=ms-android-samsung&sourceid=chrome-mobile&ie=UTF-8
