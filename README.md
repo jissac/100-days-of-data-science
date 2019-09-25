@@ -137,3 +137,7 @@ What is SSH?
 
 ## Day 28
 - https://www.google.com/search?q=Spotify+keto+podcast&oq=Spotify+keto+podcast&aqs=chrome..69i57j0.10391j0j4&client=ms-android-samsung&sourceid=chrome-mobile&ie=UTF-8
+
+## Day 30
+Data Science Career tips
+- https://elitedatascience.com/become-a-data-scientist
