@@ -141,3 +141,7 @@ What is SSH?
 ## Day 30
 Data Science Career tips
 - https://elitedatascience.com/become-a-data-scientist
+
+## Day 31
+A/B Testing
+- https://www.invespcro.com/blog/ab-testing-statistics-made-simple/
