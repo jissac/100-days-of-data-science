@@ -149,4 +149,5 @@ A/B Testing
 ## Day 32
 Clustering
 - https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/
-- 
+- https://www.youtube.com/watch?v=_aWzGGNrcic (playlist: https://www.youtube.com/watch?v=mHl5P-qlnCQ&list=PLBv09BD7ez_6cgkSUAqBXENXEhCkb_2wl)
+
