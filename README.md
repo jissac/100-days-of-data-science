@@ -145,3 +145,8 @@ Data Science Career tips
 ## Day 31
 A/B Testing
 - https://www.invespcro.com/blog/ab-testing-statistics-made-simple/
+
+## Day 32
+Clustering
+- https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/
+- 
