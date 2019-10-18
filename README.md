@@ -147,7 +147,13 @@ A/B Testing
 - https://www.invespcro.com/blog/ab-testing-statistics-made-simple/
 
 ## Day 32
-Clustering
+Clustering (K-Means)
 - https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/
 - https://www.youtube.com/watch?v=_aWzGGNrcic (playlist: https://www.youtube.com/watch?v=mHl5P-qlnCQ&list=PLBv09BD7ez_6cgkSUAqBXENXEhCkb_2wl)
+- https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
+
+## Day 33
+Clustering (DBSCAN)
+- https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
+
 
