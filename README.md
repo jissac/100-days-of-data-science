@@ -155,5 +155,8 @@ Clustering (K-Means)
 ## Day 33
 Clustering (DBSCAN)
 - https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
+- http://mccormickml.com/2016/11/08/dbscan-clustering/
 
-
+## Day 34
+The Ten Best Ideas in Statistics
+- https://www.naftaliharris.com/blog/ten-stat-ideas/
