@@ -160,3 +160,8 @@ Clustering (DBSCAN)
 ## Day 34
 The Ten Best Ideas in Statistics
 - https://www.naftaliharris.com/blog/ten-stat-ideas/
+
+## Day 35
+Hypothesis testing
+- https://statisticsbyjim.com/hypothesis-testing/statistical-hypothesis-testing-overview/
+
