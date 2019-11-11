@@ -174,4 +174,8 @@ Bayes Theorem for ML
 AI a Modern Approach
 - https://faculty.psau.edu.sa/filedownload/doc-7-pdf-a154ffbcec538a4161a406abf62f5b76-original.pdf 
 
-
+## Day 38
+One-way ANOVA
+- https://statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide.php
+One-way vs two-way ANOVA
+- https://www.technologynetworks.com/informatics/articles/one-way-vs-two-way-anova-definition-differences-assumptions-and-hypotheses-306553
