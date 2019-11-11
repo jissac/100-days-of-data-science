@@ -163,5 +163,15 @@ The Ten Best Ideas in Statistics
 
 ## Day 35
 Hypothesis testing
-- https://statisticsbyjim.com/hypothesis-testing/statistical-hypothesis-testing-overview/
+- https://statisticsbyjim.com/hypothesis-testing/statistical-hypothesis-testing-overview/                       
+- https://machinelearningmastery.com/statistical-hypothesis-tests/
+
+## Day 36
+Bayes Theorem for ML
+- https://machinelearningmastery.com/bayes-theorem-for-machine-learning/?fbclid=IwAR16dJjr7wTYnIHWM5LM5mbt8ol6vGzoNdVdn-bCJPQfX11kSDaizbqdQCw
+
+## Day 37
+AI a Modern Approach
+- https://faculty.psau.edu.sa/filedownload/doc-7-pdf-a154ffbcec538a4161a406abf62f5b76-original.pdf 
+
 
