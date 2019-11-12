@@ -166,6 +166,12 @@ Hypothesis testing
 - https://statisticsbyjim.com/hypothesis-testing/statistical-hypothesis-testing-overview/                       
 - https://machinelearningmastery.com/statistical-hypothesis-tests/
 
+Paired or Independent t test
+- https://blog.minitab.com/blog/statistics-and-quality-data-analysis/t-for-2-should-i-use-a-paired-t-or-a-2-sample-t
+
+Correlation
+- https://blogs.oracle.com/datascience/introduction-to-correlation
+
 ## Day 36
 Bayes Theorem for ML
 - https://machinelearningmastery.com/bayes-theorem-for-machine-learning/?fbclid=IwAR16dJjr7wTYnIHWM5LM5mbt8ol6vGzoNdVdn-bCJPQfX11kSDaizbqdQCw
@@ -180,3 +186,11 @@ One-way ANOVA
 
 One-way vs two-way ANOVA
 - https://www.technologynetworks.com/informatics/articles/one-way-vs-two-way-anova-definition-differences-assumptions-and-hypotheses-306553
+
+## Day 39
+Kaggle hypothesis testing kernels
+- https://www.kaggle.com/tsilveira/inferential-statistics-and-hypothesis-testing/comments
+- https://www.kaggle.com/anthonyleo/hypothesis-testing/notebook
+- https://www.kaggle.com/jgroff/unit-3-hypothesis-testing
+- https://www.kaggle.com/ipravin/hypothesis-testing-using-t-test
+- https://www.kaggle.com/hamelg/python-for-data-24-hypothesis-testing
