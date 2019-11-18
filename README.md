@@ -166,7 +166,7 @@ Hypothesis testing
 - https://statisticsbyjim.com/hypothesis-testing/statistical-hypothesis-testing-overview/                       
 - https://machinelearningmastery.com/statistical-hypothesis-tests/
 - https://www.quora.com/What-is-an-intuitive-explanation-of-the-t-test-in-hypothesis-testing
--
+- http://www.fairlynerdy.com/intuitive-guide-statistical-significance/
 -
 
 Paired or Independent t test
