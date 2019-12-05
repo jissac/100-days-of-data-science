@@ -197,3 +197,8 @@ Kaggle hypothesis testing kernels
 - https://www.kaggle.com/jgroff/unit-3-hypothesis-testing
 - https://www.kaggle.com/ipravin/hypothesis-testing-using-t-test
 - https://www.kaggle.com/hamelg/python-for-data-24-hypothesis-testing
+
+## Day 40
+Bayesian Statistics
+- https://github.com/markdregan/Bayesian-Modelling-in-Python
+- https://www.quantstart.com/articles/Bayesian-Statistics-A-Beginners-Guide
